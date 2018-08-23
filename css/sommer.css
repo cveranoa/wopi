@@ -8,7 +8,7 @@ Primary use:    MultiPurpose Template
 -------------------------------------------------------------------*/
 
 @media only screen and (max-width: 768px) {
-	.cv-home-content{padding-top:35px}
+	.cv-home-content{padding-top:40px}
 }
 .yellow{color:#FFC90E}
 .cv-header-sub{padding-bottom:20px}
