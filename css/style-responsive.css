@@ -650,7 +650,6 @@ Primary use:    MultiPurpose Template
         left: 0;
     }
     
-    
     .page-section {
         padding: 60px 0;
     }
@@ -725,7 +724,6 @@ Primary use:    MultiPurpose Template
         font-size: 12px;
     }
 
-    
     .works-filter a{
         width: 100%;
         margin-left: 0;
@@ -772,8 +770,7 @@ Primary use:    MultiPurpose Template
         display: block;
         height: 10px;
     }
-    
-    
+
     .bot-menu-item{
         font-size: 16px;
     }
