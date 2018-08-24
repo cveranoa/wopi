@@ -11,8 +11,13 @@ Primary use:    MultiPurpose Template
 	.cv-home-content{padding-top:45px;}
 }
 
-@media only screen and (max-width: 360px) {
-	.hs-line-8{display:none;}
+@media only screen and (max-width: 400px) {
+	.newsletter-label {
+		font-size: 14px;
+	}
+    .hs-line-8 {
+        font-size: 14px;
+    }
 }
 
 .yellow{color:#FFC90E;}
