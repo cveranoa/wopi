@@ -8,10 +8,12 @@ Primary use:    MultiPurpose Template
 -------------------------------------------------------------------*/
 
 @media only screen and (max-width: 768px) {
-	.cv-home-content{padding-top:45px}
+	.cv-home-content{padding-top:45px;}
+	.hs-line-8{display:none;}
 }
-.yellow{color:#FFC90E}
-.cv-header-sub{padding-bottom:20px}
+
+.yellow{color:#FFC90E;}
+.cv-header-sub{padding-bottom:20px;}
 .cv-header-sub p{margin:0px;}
-.mt-60 {margin-top:0px}
+.mt-60 {margin-top:0px;}
 .cv-font-alt{color:#fff !important;font-family:Dosis, arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;letter-spacing:0.3em;text-transform:uppercase;opacity:.85;}

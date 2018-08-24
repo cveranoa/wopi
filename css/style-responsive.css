@@ -806,18 +806,16 @@ Primary use:    MultiPurpose Template
     }
 }
 
-
 /* ==============================
    Small Phone
    ============================== */
   
 @media only screen and (max-width: 319px) {
-    
-      .nav-social-links{
-          display: none;
-      }
-}
 
+	.nav-social-links{
+		display: none;
+	}
+}
 
 /* ==============================
    Max Height 768
@@ -831,7 +829,6 @@ Primary use:    MultiPurpose Template
         width: auto;
     }
 }
-
 
 /* ==============================
    IOS Background Fix
